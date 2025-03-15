@@ -34,6 +34,7 @@ Imgur
 ## Notes
 
 Describe any challenges encountered while building the app.
+Editing the Pokemon Photos took quite a bit longer than expected. I wanted to include a card flipping animation for the cards but ran out of time. 
 
 ## License
 
