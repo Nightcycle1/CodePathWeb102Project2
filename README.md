@@ -34,14 +34,11 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+ScreenToGIF
 
 ## Notes
 
-I am actually in another state away for home. I didn't realize how busy I would be but this is what I was able to do in 2-3 hours. 
+I was actually out of state when I created this. Failed to consider how I busy I would be to work on this project in a sufficient manner. 
 
 ## License
 
