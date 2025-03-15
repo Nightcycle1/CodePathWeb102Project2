@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './FlashCard.css';
 
 const FlashCard = ({ card, onNext }) => {
   const [showAnswer, setShowAnswer] = useState(false);
@@ -8,7 +9,7 @@ const FlashCard = ({ card, onNext }) => {
   };
 
   return (
-    <div className="flashcard">
+    <div className="flashcard" onClick={handleClick}>
       {/* Display question image or answer image based on state */}
       <img
         src={showAnswer ? card.answerImage : card.questionImage}
@@ -18,7 +19,6 @@ const FlashCard = ({ card, onNext }) => {
       <div className="card-content" onClick={handleClick}>
         {showAnswer ? card.answer : card.question}
       </div>
-      <button onClick={onNext}>Next Card</button>
     </div>
   );
 };
