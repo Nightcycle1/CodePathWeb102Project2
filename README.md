@@ -18,13 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] A shuffle button is used to randomize the order of the cards
-- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
-- [ ] A counter displays the user's current and longest streak of correct responses
-- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -35,9 +29,7 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Imgur
 
 ## Notes
 
